@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="699d6f59-a0a0-4a2b-a453-46cf094afcc2" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
+      <change beforePath="$PROJECT_DIR$/pages/object-item.html" afterPath="$PROJECT_DIR$/pages/object-item.html" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -13,7 +13,7 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="851">
@@ -104,14 +104,15 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="object-item.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="object-item.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/pages/object-item.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="183">
-              <caret line="1663" column="29" lean-forward="false" selection-start-line="1663" selection-start-column="29" selection-end-line="1663" selection-end-column="29" />
+            <state relative-caret-position="562">
+              <caret line="1557" column="12" lean-forward="false" selection-start-line="1557" selection-start-column="12" selection-end-line="1557" selection-end-column="12" />
               <folding>
                 <element signature="n#ul#0;n#li#1;n#ul#0;n#nav#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="false" />
                 <element signature="n#ul#0;n#aside#0;n#section#0;n#main#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#div#0;n#section#0;n#section#0;n#main#0;n#body#0;n#html#0;n#!!top" expanded="false" />
               </folding>
             </state>
           </provider>
@@ -156,12 +157,12 @@
         <option value="$PROJECT_DIR$/pages/goods-item.html" />
         <option value="$PROJECT_DIR$/pages/goods.html" />
         <option value="$PROJECT_DIR$/pages/news-item.html" />
-        <option value="$PROJECT_DIR$/pages/object-item.html" />
         <option value="$PROJECT_DIR$/pages/services.html" />
         <option value="$PROJECT_DIR$/pages/services-item.html" />
         <option value="$PROJECT_DIR$/pages/news.html" />
         <option value="$PROJECT_DIR$/pages/contacts.html" />
         <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/pages/object-item.html" />
       </list>
     </option>
   </component>
@@ -249,12 +250,12 @@
       <updated>1525287401418</updated>
       <workItem from="1525287402664" duration="579000" />
       <workItem from="1525333202563" duration="2141000" />
-      <workItem from="1525466640781" duration="774000" />
+      <workItem from="1525466640781" duration="987000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3494000" />
+    <option name="totallyTimeSpent" value="3707000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1920" height="1080" extended-state="6" />
@@ -445,17 +446,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pages/object-item.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="183">
-          <caret line="1663" column="29" lean-forward="false" selection-start-line="1663" selection-start-column="29" selection-end-line="1663" selection-end-column="29" />
-          <folding>
-            <element signature="n#ul#0;n#li#1;n#ul#0;n#nav#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#ul#0;n#aside#0;n#section#0;n#main#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/pages/services.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="183">
@@ -518,6 +508,18 @@
           <folding>
             <element signature="n#ul#0;n#li#1;n#ul#0;n#nav#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#ul#0;n#aside#0;n#section#0;n#main#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/object-item.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="562">
+          <caret line="1557" column="12" lean-forward="false" selection-start-line="1557" selection-start-column="12" selection-end-line="1557" selection-end-column="12" />
+          <folding>
+            <element signature="n#ul#0;n#li#1;n#ul#0;n#nav#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#ul#0;n#aside#0;n#section#0;n#main#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#0;n#section#0;n#section#0;n#main#0;n#body#0;n#html#0;n#!!top" expanded="false" />
           </folding>
         </state>
       </provider>
