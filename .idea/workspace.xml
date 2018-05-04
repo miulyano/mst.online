@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="699d6f59-a0a0-4a2b-a453-46cf094afcc2" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/pages/contacts.html" afterPath="$PROJECT_DIR$/pages/contacts.html" />
+      <change beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -13,11 +13,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="about_company.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pages/about_company.html">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="423">
-              <caret line="1704" column="65" lean-forward="true" selection-start-line="1704" selection-start-column="65" selection-end-line="1704" selection-end-column="65" />
+            <state relative-caret-position="851">
+              <caret line="1629" column="14" lean-forward="false" selection-start-line="1629" selection-start-column="14" selection-end-line="1629" selection-end-column="14" />
               <folding>
                 <element signature="n#ul#0;n#li#1;n#ul#0;n#nav#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="false" />
                 <element signature="n#ul#0;n#aside#0;n#section#0;n#main#0;n#body#0;n#html#0;n#!!top" expanded="false" />
@@ -26,11 +26,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="contacts.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="contacts.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pages/contacts.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="663">
-              <caret line="1711" column="59" lean-forward="false" selection-start-line="1711" selection-start-column="59" selection-end-line="1711" selection-end-column="59" />
+            <state relative-caret-position="279">
+              <caret line="1695" column="54" lean-forward="true" selection-start-line="1695" selection-start-column="54" selection-end-line="1695" selection-end-column="54" />
               <folding>
                 <element signature="n#ul#0;n#li#1;n#ul#0;n#nav#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="false" />
                 <element signature="n#ul#0;n#aside#0;n#section#0;n#main#0;n#body#0;n#html#0;n#!!top" expanded="false" />
@@ -151,7 +151,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/pages/about_company.html" />
         <option value="$PROJECT_DIR$/pages/objects.html" />
         <option value="$PROJECT_DIR$/pages/goods-item.html" />
@@ -162,6 +161,7 @@
         <option value="$PROJECT_DIR$/pages/services-item.html" />
         <option value="$PROJECT_DIR$/pages/news.html" />
         <option value="$PROJECT_DIR$/pages/contacts.html" />
+        <option value="$PROJECT_DIR$/index.html" />
       </list>
     </option>
   </component>
@@ -249,12 +249,12 @@
       <updated>1525287401418</updated>
       <workItem from="1525287402664" duration="579000" />
       <workItem from="1525333202563" duration="2141000" />
-      <workItem from="1525466640781" duration="614000" />
+      <workItem from="1525466640781" duration="774000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3334000" />
+    <option name="totallyTimeSpent" value="3494000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1920" height="1080" extended-state="6" />
@@ -401,17 +401,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="593">
-          <caret line="1713" column="22" lean-forward="false" selection-start-line="1713" selection-start-column="22" selection-end-line="1713" selection-end-column="33" />
-          <folding>
-            <element signature="n#ul#0;n#li#1;n#ul#0;n#nav#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#ul#0;n#aside#0;n#section#0;n#main#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/pages/about_company.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="423">
@@ -513,8 +502,19 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/pages/contacts.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="663">
-          <caret line="1711" column="59" lean-forward="false" selection-start-line="1711" selection-start-column="59" selection-end-line="1711" selection-end-column="59" />
+        <state relative-caret-position="279">
+          <caret line="1695" column="54" lean-forward="true" selection-start-line="1695" selection-start-column="54" selection-end-line="1695" selection-end-column="54" />
+          <folding>
+            <element signature="n#ul#0;n#li#1;n#ul#0;n#nav#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#ul#0;n#aside#0;n#section#0;n#main#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="851">
+          <caret line="1629" column="14" lean-forward="false" selection-start-line="1629" selection-start-column="14" selection-end-line="1629" selection-end-column="14" />
           <folding>
             <element signature="n#ul#0;n#li#1;n#ul#0;n#nav#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#ul#0;n#aside#0;n#section#0;n#main#0;n#body#0;n#html#0;n#!!top" expanded="false" />
