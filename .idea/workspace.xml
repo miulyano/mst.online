@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
 <<<<<<< HEAD
+<<<<<<< HEAD
     <list default="true" id="699d6f59-a0a0-4a2b-a453-46cf094afcc2" name="Default" comment="">
 <<<<<<< HEAD
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
@@ -25,6 +26,11 @@
     </list>
 =======
     <list default="true" id="699d6f59-a0a0-4a2b-a453-46cf094afcc2" name="Default" comment="" />
+>>>>>>> fx
+=======
+    <list default="true" id="699d6f59-a0a0-4a2b-a453-46cf094afcc2" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
 >>>>>>> fx
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -186,7 +192,11 @@
               <caret line="1692" column="31" lean-forward="false" selection-start-line="1692" selection-start-column="31" selection-end-line="1692" selection-end-column="31" />
 =======
             <state relative-caret-position="7728">
+<<<<<<< HEAD
               <caret line="1703" column="12" lean-forward="true" selection-start-line="1703" selection-start-column="12" selection-end-line="1703" selection-end-column="12" />
+>>>>>>> fx
+=======
+              <caret line="1703" column="12" lean-forward="false" selection-start-line="1703" selection-start-column="12" selection-end-line="1703" selection-end-column="12" />
 >>>>>>> fx
               <folding>
                 <element signature="n#ul#0;n#li#1;n#ul#0;n#nav#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="false" />
@@ -271,12 +281,18 @@
     <option name="height" value="788" />
 =======
   <component name="ProjectFrameBounds" fullScreen="true">
+<<<<<<< HEAD
     <option name="x" value="24" />
 >>>>>>> 368511f70d3d641b76d13b6d6a31c409761b5c58
     <option name="y" value="83" />
     <option name="width" value="1914" />
     <option name="height" value="920" />
 >>>>>>> 34894b44adc14299dbe9edd0244f3a7f8ba2d454
+=======
+    <option name="y" value="23" />
+    <option name="width" value="1920" />
+    <option name="height" value="1057" />
+>>>>>>> fx
   </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
@@ -350,16 +366,21 @@
 =======
       <workItem from="1525333202563" duration="2141000" />
 <<<<<<< HEAD
+<<<<<<< HEAD
       <workItem from="1525466640781" duration="2292000" />
 >>>>>>> 34894b44adc14299dbe9edd0244f3a7f8ba2d454
 >>>>>>> 368511f70d3d641b76d13b6d6a31c409761b5c58
 =======
       <workItem from="1525466640781" duration="2473000" />
 >>>>>>> fx
+=======
+      <workItem from="1525466640781" duration="3065000" />
+>>>>>>> fx
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
     <option name="totallyTimeSpent" value="3656000" />
@@ -415,6 +436,9 @@
     <option name="totallyTimeSpent" value="5012000" />
 =======
     <option name="totallyTimeSpent" value="5193000" />
+>>>>>>> fx
+=======
+    <option name="totallyTimeSpent" value="5785000" />
 >>>>>>> fx
   </component>
   <component name="ToolWindowManager">
@@ -935,7 +959,7 @@
 >>>>>>> 368511f70d3d641b76d13b6d6a31c409761b5c58
 =======
         <state relative-caret-position="7728">
-          <caret line="1703" column="12" lean-forward="true" selection-start-line="1703" selection-start-column="12" selection-end-line="1703" selection-end-column="12" />
+          <caret line="1703" column="12" lean-forward="false" selection-start-line="1703" selection-start-column="12" selection-end-line="1703" selection-end-column="12" />
           <folding>
             <element signature="n#ul#0;n#li#1;n#ul#0;n#nav#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#ul#0;n#aside#0;n#section#0;n#main#0;n#body#0;n#html#0;n#!!top" expanded="false" />
